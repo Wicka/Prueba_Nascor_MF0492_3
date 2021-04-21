@@ -1,0 +1,5 @@
+1 .- pan - 3 unidades.
+2 .- pan - 2 unidades.
+3 .- chocolate - 5 unidades.
+4 .- pan - 10 unidades.
+5 .- panecillo - 5 unidades.
